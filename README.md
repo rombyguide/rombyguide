@@ -8,13 +8,13 @@
 <p align='center'>
 
   <a href="https://github.com/rombyguide">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="90" height="25"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="90" height="27"/>
   </a>&nbsp;&nbsp;
   <a href="https://t.me/rombyguide">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90" height="25"/>        
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90" height="27"/>        
   </a>&nbsp;&nbsp;
   <a href="mailto:romanblinov1613@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90" height="25"/>        
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90" height="27"/>        
   </a>&nbsp;&nbsp;  
 
 </p>
