@@ -1,5 +1,5 @@
 
-<h1  align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Good to see you.</h1>
+<h1  align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Good to see you on my profile.</h1>
 
 <h4 align='center'>
   I'm Roman Blinov, a Java Developer from St-Petersburg, Russia.
@@ -138,6 +138,7 @@
 
 
 Started counting on <b>03/09/2022</b>
+
 ![Profile views](https://gpvc.arturio.dev/rombyguide)
 
 <!--
