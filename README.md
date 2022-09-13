@@ -21,7 +21,7 @@
 
 <h2>🛠 Useful Documentation</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://www.oracle.com/java/technologies/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/java.svg" alt="java" width="50" height="50" />
     </a>
@@ -70,7 +70,7 @@
         <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="junit" width="50" height="50" />
     </a>
 </p>
-<p align="left">
+<p align="center">
     <a href="https://www.oracle.com/in/database/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg" alt="oracle" width="50" height="50" />
     </a>
