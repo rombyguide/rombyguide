@@ -2,7 +2,7 @@
 <h1  align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Good to see you on my profile.</h1>
 
 <h4 align='center'>
-  I'm Roman Blinov, a Novice Java Developer from St-Petersburg, Russia.
+  I'm Roman Blinov, a Java Developer from St-Petersburg, Russia.
 </h4>
 
 <p align='center'>
